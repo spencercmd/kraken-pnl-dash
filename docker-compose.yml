@@ -1,0 +1,12 @@
+version: '3'
+services:
+  kraken-pnl-app:
+    build: .
+    container_name: kraken-pnl-container
+    ports:
+      - "3000:3000"
+    environment:
+      # Optionally override your .env file environment variables here
+    # You can also specify volumes if you want code hot-reload in dev, e.g.:
+    # volumes:
+    #   - .:/app 

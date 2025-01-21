@@ -1,0 +1,23 @@
+{
+  "name": "kraken-pnl-app",
+  "version": "1.0.0",
+  "description": "Kraken PnL tracking application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "kraken-api": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
