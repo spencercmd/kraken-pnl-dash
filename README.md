@@ -108,11 +108,3 @@ The application will be available at `http://localhost:3000` (or your configured
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Disclaimer
-
-This tool is for informational purposes only. Always verify PnL calculations against your official Kraken account statements. Trading cryptocurrency involves risk, and past performance does not guarantee future results. 
